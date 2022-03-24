@@ -1,3 +1,6 @@
+![Banner](https://github.com/rakesh-201/R.V.V.P-webdevers.in/blob/master/INHERITANCE/segments/static/B%20Site.gif)
+
+
 # B_Site :man_with_probing_cane: :woman_with_probing_cane:
 
 B_Site is a voice controlled website built for a class of specially-abled people viz. blind people.
